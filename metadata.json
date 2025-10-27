@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Coach",
+  "description": "An AI-powered coach that helps job seekers practice interviews through realistic, adaptive conversations, analyzing your resume and the target job description to provide personalized feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
